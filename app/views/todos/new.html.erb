@@ -1,4 +1,4 @@
-<h1> create new todos</h1>
+<h1> Create new todos</h1>
 <% if @todo.errors.any? %>
 
 <h2>the following errors prevented todos from being saved </h2>
@@ -23,4 +23,6 @@
 <p>
   <%=f.submit%>
 </p>
+
 <% end %>
+<%= link_to "Back to listing todos", todos_path %>
