@@ -21,12 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-```diff
- var x = 0;
- 
- - var y = 300;
- 
- + var y = 0;
- ```
 to start a server rails s -b $IP -b $PORT
