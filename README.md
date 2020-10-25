@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
+* [x] learn mardown :smile:
 to start a server rails s -b $IP -b $PORT
